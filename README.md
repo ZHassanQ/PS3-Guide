@@ -18,7 +18,7 @@ HEN Sections:
 
 # Donwloads & Forums
 
-In this guides any file mentioned will be listed in (Releases).
+In this guide any file mentioned will be listed in (Releases).
 
 - [Original Forum](https://gbatemp.net/threads/ultimate-ps3-guide.623854/#post-10035808)
 - [PS3Xploit](http://ps3xploit.me/) [(Mirror)](https://furever.me/bgtoolset) [(Russian Mirror)](https://www.pspx.ru/forum/bgtoolset/)
