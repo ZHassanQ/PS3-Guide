@@ -28,6 +28,7 @@ In this guide any file mentioned will be listed in (Releases).
 - [WebMan](https://github.com/aldostools/webMAN-MOD)
 - [IRISMAN](https://github.com/aldostools/IRISMAN)
 - [Apollo Save Tool](https://github.com/bucanero/apollo-ps3)
+- [Rufus](https://rufus.ie/en/)
 
 
 # Credits & Donations
@@ -39,4 +40,5 @@ In this guide any file mentioned will be listed in (Releases).
 - WebMan [aldostools](https://www.paypal.com/donate/?hosted_button_id=HCYZ9AM3JUB78)
 - IRISMAN [aldostools](https://www.paypal.com/donate/?hosted_button_id=HCYZ9AM3JUB78)
 - Apollo Save Tool [bucanero](https://www.paypal.me/bucanerodev)
+- Rufus [pbatard](https://github.com/pbatard)
 
