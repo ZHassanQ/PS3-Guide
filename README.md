@@ -34,7 +34,7 @@ In this guides any file mentioned will be listed in (Releases).
 
 - PS3Xploit [esc0rtd3w & bguerville & Habib](https://www.paypal.me/nopsn)
 - Evilnat CFW Cobra 8.X [PSX-Place](https://www.psx-place.com/members/evilnat.76/) [Github](https://github.com/Evilnat)
-- MinVerChk NOT FOUND
+- MinVerChk [PSX-Place](https://www.psx-place.com/resources/minverchk-minimum-version-checker.610/)
 - MultiMan [deank](https://www.paypal.com/paypalme/webplugins)
 - WebMan [aldostools](https://www.paypal.com/donate/?hosted_button_id=HCYZ9AM3JUB78)
 - IRISMAN [aldostools](https://www.paypal.com/donate/?hosted_button_id=HCYZ9AM3JUB78)
