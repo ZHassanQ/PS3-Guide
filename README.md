@@ -10,6 +10,7 @@ CFW Sections:
 - [Backing up](https://github.com/ZHassanQ/PS3-CFW-Guide/wiki/5.-Backing-Up) (Writing & Verifying Flash Dump)
 - [Patching PS3](https://github.com/ZHassanQ/PS3-CFW-Guide/wiki/6.-Patching-PS3)
 - [Installing CFW](https://github.com/ZHassanQ/PS3-CFW-Guide/wiki/7.-Installing-CFW)
+- [Installing Homebrew Apps & Games](https://github.com/ZHassanQ/PS3-CFW-Guide/wiki/8.-Installing-Homebrew-Apps-&-Games)
 
 
 
