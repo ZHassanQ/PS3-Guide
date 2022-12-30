@@ -35,6 +35,7 @@ In this guide any file mentioned will be listed in (Releases).
 # Credits & Donations
 
 - PS3Xploit [esc0rtd3w & bguerville & Habib](https://www.paypal.me/nopsn)
+- PS3Xploit (Mirror#2) [USERNAME]()
 - Evilnat CFW Cobra 8.X [PSX-Place](https://www.psx-place.com/members/evilnat.76/) [Github](https://github.com/Evilnat)
 - Rebug DEX [rebug](https://rebug.me/)
 - MinVerChk [PSX-Place](https://www.psx-place.com/resources/minverchk-minimum-version-checker.610/)
