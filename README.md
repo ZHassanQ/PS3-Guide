@@ -10,6 +10,8 @@ CFW Sections:
 - Backing up (Writing & Verifying Flash Dump)
 - Installing CFW
 
+---
+
 HEN Sections:
 
 - Updating (Optional)
