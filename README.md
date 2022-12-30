@@ -3,12 +3,13 @@ This is a repository is guide to how install CFW (Custom Firmware).
 
 CFW Sections: 
 
-- [Combatiblity Check]()
-- [Combatiblity Test]() (Slim Model)
-- [Preparing]()
-- [Self Hosting BgToolset]()
-- [Backing up]() (Writing & Verifying Flash Dump)
-- [Installing CFW]()
+- [Combatiblity Check](https://github.com/ZHassanQ/PS3-CFW-Guide/wiki/1.-Compatibility-Check)
+- [Combatiblity Test](https://github.com/ZHassanQ/PS3-CFW-Guide/wiki/2.-Compatibility-Test) (Slim Model)
+- [Preparing](https://github.com/ZHassanQ/PS3-CFW-Guide/wiki/3.-Preparing)
+- [Self Hosting BgToolset](https://github.com/ZHassanQ/PS3-CFW-Guide/wiki/4.-Self-Hosting-BgToolset)
+- [Backing up](https://github.com/ZHassanQ/PS3-CFW-Guide/wiki/5.-Backing-Up) (Writing & Verifying Flash Dump)
+- [Patching PS3](https://github.com/ZHassanQ/PS3-CFW-Guide/wiki/6.-Patching-PS3)
+- [Installing CFW](https://github.com/ZHassanQ/PS3-CFW-Guide/wiki/7.-Installing-CFW)
 
 
 
