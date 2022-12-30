@@ -1,14 +1,14 @@
 # PS3 CFW Guide
 This is a repository is guide to how install CFW (Custom Firmware).
 
-CFW Sections:
+CFW Sections: 
 
-- Combatiblity Check
-- Combatiblity Test (Slim Model)
-- Preparing
-- Self Hosting BgToolset
-- Backing up (Writing & Verifying Flash Dump)
-- Installing CFW
+- [Combatiblity Check]()
+- [Combatiblity Test]() (Slim Model)
+- [Preparing]()
+- [Self Hosting BgToolset]()
+- [Backing up]() (Writing & Verifying Flash Dump)
+- [Installing CFW]()
 
 
 
