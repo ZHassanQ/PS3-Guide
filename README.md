@@ -32,6 +32,7 @@ In this guide any file mentioned will be listed in (Releases).
 - [Rufus](https://rufus.ie/en/)
 - [XAMPP](https://www.apachefriends.org/)
 - [PyPS3Checker](https://github.com/littlebalup)
+- [PS3Splitter](http://karmian.org/projects/ps3splitter)
 
 
 # Credits & Donations
@@ -50,4 +51,5 @@ In this guide any file mentioned will be listed in (Releases).
 - XAMPP [Apcahefriends](https://www.apachefriends.org/)
 - PyPS3Checker [littlebalup](https://github.com/littlebalup)
 - PSN Patch [USERNAME](http://www.psx-place.com/forum/psnpatch/psnpatch-information-releases-125.html)
+- PS3Splitter [karmian](http://karmian.org)
 
