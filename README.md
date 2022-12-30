@@ -3,7 +3,8 @@ This is a repository is to how install CFW (Custom Firmware) or HEN (Hybrid Frim
 
 CFW Sections:
 
-- Minimum Version Check
+- Combatiblity Check
+- Combatiblity Test (Slim Model)
 - Preparing
 - Backing up (Writing & Verifying Flash Dump)
 - Installing CFW
