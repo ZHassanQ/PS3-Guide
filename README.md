@@ -28,6 +28,7 @@ In this guide any file mentioned will be listed in (Releases).
 - [Apollo Save Tool](https://github.com/bucanero/apollo-ps3)
 - [Rufus](https://rufus.ie/en/)
 - [XAMPP](https://www.apachefriends.org/)
+- [PyPS3Checker](https://github.com/littlebalup)
 
 
 # Credits & Donations
@@ -42,4 +43,5 @@ In this guide any file mentioned will be listed in (Releases).
 - Apollo Save Tool [bucanero](https://www.paypal.me/bucanerodev)
 - Rufus [pbatard](https://github.com/pbatard)
 - XAMPP [Apcahefriends](https://www.apachefriends.org/)
+- PyPS3Checker [littlebalup](https://github.com/littlebalup)
 
