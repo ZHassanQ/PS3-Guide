@@ -6,7 +6,7 @@ CFW Sections:
 - Combatiblity Check
 - Combatiblity Test (Slim Model)
 - Preparing
-- Self Hosting PS3Xploit
+- Self Hosting BgToolset
 - Backing up (Writing & Verifying Flash Dump)
 - Installing CFW
 
