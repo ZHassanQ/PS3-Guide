@@ -1,5 +1,5 @@
-# PS3 CFW & HEN Guide
-This is a repository is to how install CFW (Custom Firmware) or HEN (Hybrid Frimware).
+# PS3 CFW Guide
+This is a repository is guide to how install CFW (Custom Firmware).
 
 CFW Sections:
 
@@ -10,14 +10,7 @@ CFW Sections:
 - Backing up (Writing & Verifying Flash Dump)
 - Installing CFW
 
----
 
-HEN Sections:
-
-- Updating (Optional)
-- Preparing
-- Self Host (Optional)
-- Installing HEN
 
 
 # Donwloads & Forums
