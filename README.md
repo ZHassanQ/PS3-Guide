@@ -27,6 +27,7 @@ In this guide any file mentioned will be listed in (Releases).
 - [WebMan](https://github.com/aldostools/webMAN-MOD)
 - [IRISMAN](https://github.com/aldostools/IRISMAN)
 - [Apollo Save Tool](https://github.com/bucanero/apollo-ps3)
+- [PSN Patch](http://www.psx-place.com/forum/psnpatch/psnpatch-information-releases-125.html)
 - [Rufus](https://rufus.ie/en/)
 - [XAMPP](https://www.apachefriends.org/)
 - [PyPS3Checker](https://github.com/littlebalup)
@@ -46,4 +47,5 @@ In this guide any file mentioned will be listed in (Releases).
 - Rufus [pbatard](https://github.com/pbatard)
 - XAMPP [Apcahefriends](https://www.apachefriends.org/)
 - PyPS3Checker [littlebalup](https://github.com/littlebalup)
+- PSN Patch [USERNAME](http://www.psx-place.com/forum/psnpatch/psnpatch-information-releases-125.html)
 
