@@ -31,7 +31,7 @@ In this guide any file mentioned will be listed in (Releases).
 - [IRISMAN](https://github.com/aldostools/IRISMAN)
 - [Apollo Save Tool](https://github.com/bucanero/apollo-ps3)
 - [Rufus](https://rufus.ie/en/)
-- [[XAMPP](https://www.apachefriends.org/)
+- [XAMPP](https://www.apachefriends.org/)
 
 
 # Credits & Donations
