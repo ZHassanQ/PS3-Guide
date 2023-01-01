@@ -38,19 +38,19 @@ In this guide any file mentioned will be listed in (Releases).
 
 # Credits & Donations
 
-- PS3Xploit [esc0rtd3w & bguerville & Habib](https://www.paypal.me/nopsn)
+- PS3Xploit [esc0rtd3w & bguerville & Habib](https://github.com/PS3Xploit) - [PayPal](https://www.paypal.me/nopsn)
 - PS3Xploit (Mirror#2) [USERNAME]()
-- Evilnat CFW Cobra 8.X [PSX-Place](https://www.psx-place.com/members/evilnat.76/) [Github](https://github.com/Evilnat)
+- Evilnat CFW Cobra 8.X [PSX-Place](https://www.psx-place.com/members/evilnat.76/) - [Github](https://github.com/Evilnat)
 - Rebug DEX [rebug](https://rebug.me/)
 - MinVerChk [PSX-Place](https://www.psx-place.com/resources/minverchk-minimum-version-checker.610/)
-- MultiMan [deank](https://www.paypal.com/paypalme/webplugins)
-- WebMan [aldostools](https://www.paypal.com/donate/?hosted_button_id=HCYZ9AM3JUB78)
-- PSX & PS2 & PS3 Covers Pack [aldostools](https://www.paypal.com/donate/?hosted_button_id=HCYZ9AM3JUB78)
-- IRISMAN [aldostools](https://www.paypal.com/donate/?hosted_button_id=HCYZ9AM3JUB78)
-- Apollo Save Tool [bucanero](https://www.paypal.me/bucanerodev)
+- MultiMan [deank](http://multiman.deanbg.com/) - [PayPal](https://www.paypal.com/paypalme/webplugins)
+- WebMan [aldostools](https://github.com/aldostools) - [PayPal](https://www.paypal.com/donate/?hosted_button_id=HCYZ9AM3JUB78)
+- PSX & PS2 & PS3 Covers Pack [aldostools](https://github.com/aldostools) - [PayPal](https://www.paypal.com/donate/?hosted_button_id=HCYZ9AM3JUB78)
+- IRISMAN [aldostools](https://github.com/aldostools) - [PayPal](https://www.paypal.com/donate/?hosted_button_id=HCYZ9AM3JUB78)
+- Apollo Save Tool [bucanero](https://github.com/bucanero) - [PayPal](https://www.paypal.me/bucanerodev)
 - Rufus [pbatard](https://github.com/pbatard)
 - XAMPP [Apcahefriends](https://www.apachefriends.org/)
 - PyPS3Checker [littlebalup](https://github.com/littlebalup)
-- PSN Patch [UNKNOWN](http://www.psx-place.com/forum/psnpatch/psnpatch-information-releases-125.html)
+- PSN Patch [PSX-Place](http://www.psx-place.com/forum/psnpatch/psnpatch-information-releases-125.html)
 - PS3Splitter [karmian](http://karmian.org)
 
