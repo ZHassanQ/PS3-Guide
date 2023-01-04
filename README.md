@@ -30,6 +30,7 @@ In this guide any file mentioned will be listed in (Releases).
 - [MultiMan (mmCM)](https://www.psx-place.com/threads/update-multiman-04-85-01-official-update-from-deank-adds-4-83-4-85-cfw-support-ps3hen-support.26435/page-3#post-210206)
 - [PSN Patch](http://www.psx-place.com/forum/psnpatch/psnpatch-information-releases-125.html)
 - [PSX & PS2 & PS3 Covers Pack](https://github.com/aldostools/Resources/)
+- [Rebug Toolbox](https://github.com/evilsperm/Rebug-Toolbox)
 - [RetroArch](https://xbins.org/libretro/)
 - [WebMan](https://github.com/aldostools/webMAN-MOD)
 
@@ -57,6 +58,7 @@ In this guide any file mentioned will be listed in (Releases).
 - MultiMan [deank](http://multiman.deanbg.com/) - [PayPal](https://www.paypal.com/paypalme/webplugins)
 - PSN Patch [PSX-Place](http://www.psx-place.com/forum/psnpatch/psnpatch-information-releases-125.html)
 - PSX & PS2 & PS3 Covers Pack [aldostools](https://github.com/aldostools) - [PayPal](https://www.paypal.com/donate/?hosted_button_id=HCYZ9AM3JUB78)
+- Rebug Toolbox [evilsperm](https://github.com/evilsperm/) - [rebug](https://rebug.me/)
 - RetroArch [liberto](https://www.libretro.com/index.php/home-2/) [Donate](https://www.retroarch.com/index.php?page=donate)
 - WebMan [aldostools](https://github.com/aldostools) - [PayPal](https://www.paypal.com/donate/?hosted_button_id=HCYZ9AM3JUB78)
 
