@@ -1,5 +1,5 @@
 # PS3 CFW Guide
-This is a repository is guide to how install CFW (Custom Firmware).
+This is a repository is guide to how install CFW (Custom Firmware) on your PlayStation 3.
 
 CFW Sections: [Wiki](https://github.com/ZHassanQ/PS3-CFW-Guide/wiki/Home)
 
