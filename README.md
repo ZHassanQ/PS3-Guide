@@ -4,10 +4,10 @@ This is a repository is guide to how to install CFW (Custom Firmware) on your Pl
 CFW Sections: [Wiki](https://github.com/ZHassanQ/PS3-CFW-Guide/wiki/Home)
 
 - [Combatiblity Check](https://github.com/ZHassanQ/PS3-CFW-Guide/wiki/1.-Compatibility-Check)
-- [Combatiblity Test](https://github.com/ZHassanQ/PS3-CFW-Guide/wiki/2.-Compatibility-Test) (Slim Model)
+- [Combatiblity Test](https://github.com/ZHassanQ/PS3-CFW-Guide/wiki/2.-Compatibility-Test)
 - [Preparing](https://github.com/ZHassanQ/PS3-CFW-Guide/wiki/3.-Preparing)
 - [Self Hosting BgToolset](https://github.com/ZHassanQ/PS3-CFW-Guide/wiki/4.-Self-Hosting-BgToolset)
-- [Backing up](https://github.com/ZHassanQ/PS3-CFW-Guide/wiki/5.-Backing-Up) (Writing & Verifying Flash Dump)
+- [Backing up](https://github.com/ZHassanQ/PS3-CFW-Guide/wiki/5.-Backing-Up)
 - [Patching PS3](https://github.com/ZHassanQ/PS3-CFW-Guide/wiki/6.-Patching-PS3)
 - [Installing CFW](https://github.com/ZHassanQ/PS3-CFW-Guide/wiki/7.-Installing-CFW)
 - [Installing Homebrew Apps & Games](https://github.com/ZHassanQ/PS3-CFW-Guide/wiki/8.-Installing-Homebrew-Apps-&-Games)
