@@ -49,7 +49,6 @@ In this guide any file mentioned will be listed in (Releases).
 
 - Evilnat CFW Cobra 8.X [PSX-Place](https://www.psx-place.com/members/evilnat.76/) - [Github](https://github.com/Evilnat)
 - PS3Xploit [esc0rtd3w & bguerville & Habib](https://github.com/PS3Xploit) - [PayPal](https://www.paypal.me/nopsn)
-- PS3Xploit (Mirror#2) [USERNAME]()
 - Rebug DEX [rebug](https://rebug.me/)
 
 ---
