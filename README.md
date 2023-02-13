@@ -13,13 +13,9 @@ CFW Sections: [Wiki](https://github.com/ZHassanQ/PS3-CFW-Guide/wiki/Home)
 - [Installing Homebrew Apps & Games](https://github.com/ZHassanQ/PS3-CFW-Guide/wiki/8.-Installing-Homebrew-Apps-&-Games)
 
 
+# CFW & Essentials
 
-
-# Donwloads & Forums
-
-In this guide any file mentioned will be listed in (Releases).
-
-- [(CFW 4.89)](https://www.psx-place.com/threads/cfw-4-89-evilnat-cobra-8-3-cex.37294/) [(CFW 4.88.2)](https://www.psx-place.com/threads/4-88-2-evilnat-cobra-8-3-custom-firmware-cfw-cex-released.32057/) 
+- [(CFW 4.89)](https://www.psx-place.com/threads/cfw-4-89-evilnat-cobra-8-3-cex.37294/) - [(CFW 4.88.2)](https://www.psx-place.com/threads/4-88-2-evilnat-cobra-8-3-custom-firmware-cfw-cex-released.32057/) 
 - [(CFW 4.84 Rebug DEX)](https://rebug.me/official-rebug-4-84-2-rex-d-rex-cobra-8-1-toolbox-2-03-02-mar-29th-2019/)
 - [PS3Xploit](http://ps3xploit.me/)
 
