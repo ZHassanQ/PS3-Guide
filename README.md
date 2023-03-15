@@ -28,7 +28,7 @@ CFW Sections: **[Wiki](https://github.com/ZHassanQ/PS3-CFW-Guide/wiki/Home)**
 
 - **[Apollo Save Tool](https://github.com/bucanero/apollo-ps3)**
 - **[IRISMAN](https://github.com/aldostools/IRISMAN)**
-- **[MultiMan (mmCM)](https://www.psx-place.com/threads/update-multiman-04-85-01-official-update-from-deank-adds-4-83-4-85-cfw-support-ps3hen-support.26435/page-3#post-210206)**
+- **[MultiMan (mmCM)](https://store.brewology.com/multiman.php)**
 - **[PSN Patch](http://www.psx-place.com/forum/psnpatch/psnpatch-information-releases-125.html)**
 - **[Rebug Toolbox](https://github.com/evilsperm/Rebug-Toolbox)**
 - **[RetroArch](https://xbins.org/libretro/)**
