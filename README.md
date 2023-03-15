@@ -66,7 +66,7 @@ CFW Sections: **[Wiki](https://github.com/ZHassanQ/PS3-CFW-Guide/wiki/Home)**
 - MinVerChk **[PSX-Place](https://www.psx-place.com/resources/minverchk-minimum-version-checker.610/)**
 - Rufus **[pbatard](https://github.com/pbatard)**
 - PS3Splitter **[karmian](http://karmian.org)**
-- PS3Splitter **Linux [nabilfreeman](https://gist.github.com/nabilfreeman)**
+- PS3Splitter Linux **[nabilfreeman](https://gist.github.com/nabilfreeman)**
 - PyPS3Checker **[littlebalup](https://github.com/littlebalup)**
 - WinMD5 **[Website](https://www.winmd5.com/)**
 - XAMPP **[Apcahefriends](https://www.apachefriends.org/)**
