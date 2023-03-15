@@ -21,7 +21,7 @@ CFW Sections: **[Wiki](https://github.com/ZHassanQ/PS3-CFW-Guide/wiki/Home)**
 
 ---
 
-- [PSX & PS2 & PS3 Covers Pack](https://github.com/aldostools/Resources/)**
+- **[PSX & PS2 & PS3 Covers Pack](https://github.com/aldostools/Resources/)**
 
 
 ## Apps (PS3)
