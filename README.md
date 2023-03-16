@@ -10,6 +10,7 @@ CFW Sections: **[Wiki](https://github.com/ZHassanQ/PS3-CFW-Guide/wiki/Home)**
 - **[Installing CFW](https://github.com/ZHassanQ/PS3-CFW-Guide/wiki/5.-Installing-CFW)**
 - **[Installing PKG & Games](https://github.com/ZHassanQ/PS3-CFW-Guide/wiki/6.-Installing-PKG-&-Games)**
 - **[Boot Icon, Controllers, NTFS](https://github.com/ZHassanQ/PS3-CFW-Guide/wiki/7.-Boot-Icon,-Controllers,-NTFS)**
+- **[PSN Account, Trophies](https://github.com/ZHassanQ/PS3-CFW-Guide/wiki/8.-PSN-Account,-Trophies)**
 
 
 # CFW & Essentials
