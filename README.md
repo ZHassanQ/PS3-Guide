@@ -56,7 +56,6 @@ CFW Sections: **[Wiki](https://github.com/ZHassanQ/PS3-CFW-Guide/wiki/Home)**
 - IRISMAN **[aldostools](https://github.com/aldostools)** - **[PayPal](https://www.paypal.com/donate/?hosted_button_id=HCYZ9AM3JUB78)**
 - MultiMan **[deank](http://multiman.deanbg.com/)** - **[PayPal](https://www.paypal.com/paypalme/webplugins)**
 - PSN Patch **[PSX-Place](http://www.psx-place.com/forum/psnpatch/psnpatch-information-releases-125.html)**
-- Rebug Toolbox **[evilsperm](https://github.com/evilsperm/)** - **[rebug](https://rebug.me/)**
 - RetroArch **[liberto](https://www.libretro.com/index.php/home-2/)** **[Donate](https://www.retroarch.com/index.php?page=donate)**
 - WebMan **[aldostools](https://github.com/aldostools)** - **[PayPal](https://www.paypal.com/donate/?hosted_button_id=HCYZ9AM3JUB78)**
 
