@@ -20,7 +20,6 @@ CFW Sections: **[Wiki](https://github.com/ZHassanQ/PS3-CFW-Guide/wiki/Home)**
 ---
 
 - **[PS3FlashWriter](https://www.psx-place.com/threads/ps3xploit-flash-writer-4-90-hfw.39744/)**
-- 
 
 ## Apps (PS3)
 
@@ -48,7 +47,7 @@ CFW Sections: **[Wiki](https://github.com/ZHassanQ/PS3-CFW-Guide/wiki/Home)**
 
 - Evilnat CFW Cobra **[PSX-Place](https://www.psx-place.com/members/evilnat.76/)** - **[Github](https://github.com/Evilnat)**
 - Joonie's HFW **[PSX-Place](https://www.psx-place.com/members/joonie.29/)**
-- PS3FlashWriter **[]()**
+- PS3FlashWriter **[PS3Xploit](https://github.com/PS3Xploit)**
 - PS3Xploit **[esc0rtd3w & bguerville & Habib](https://github.com/PS3Xploit)** - **[PayPal](https://www.paypal.me/nopsn)**
 - Rebug DEX **[rebug](https://rebug.me/)**
 
