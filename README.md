@@ -10,7 +10,7 @@ CFW Sections: **[Wiki](https://github.com/ZHassanQ/PS3-CFW-Guide/wiki/Home)**
 - **[Backing up](https://github.com/ZHassanQ/PS3-CFW-Guide/wiki/5.-Backing-Up)**
 - **[Patching PS3](https://github.com/ZHassanQ/PS3-CFW-Guide/wiki/6.-Patching-PS3)**
 - **[Installing CFW](https://github.com/ZHassanQ/PS3-CFW-Guide/wiki/7.-Installing-CFW)**
-- **[Installing Homebrew Apps & Games](https://github.com/ZHassanQ/PS3-CFW-Guide/wiki/8.-Installing-Homebrew-Apps-&-Games)**
+- **[Installing PKG & Games](https://github.com/ZHassanQ/PS3-CFW-Guide/wiki/8.-Installing-PKG-&-Games)**
 - **[Boot Icon, Controllers, NTFS](https://github.com/ZHassanQ/PS3-CFW-Guide/wiki/9.-Boot-Icon,-Controllers,-NTFS)**
 
 
