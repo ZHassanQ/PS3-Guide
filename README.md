@@ -18,6 +18,7 @@ CFW Sections: **[Wiki](https://github.com/ZHassanQ/PS3-CFW-Guide/wiki/Home)**
 
 - **[(CFW 4.90 Cobra 8.4)](https://www.psx-place.com/threads/cfw-4-90-evilnat-cobra-8-4-cex-dex-pex-d-pex.39743/)**
 - **[(CFW 4.84 Rebug DEX)](https://rebug.me/official-rebug-4-84-2-rex-d-rex-cobra-8-1-toolbox-2-03-02-mar-29th-2019/)**
+- **[(HFW 4.90.1](https://www.psx-place.com/threads/hfw-4-90-1-hybrid-firmware.39758/)**
 
 ---
 
