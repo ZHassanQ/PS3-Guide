@@ -30,7 +30,6 @@ CFW Sections: **[Wiki](https://github.com/ZHassanQ/PS3-CFW-Guide/wiki/Home)**
 - **[IRISMAN](https://github.com/aldostools/IRISMAN)**
 - **[MultiMan (mmCM)](https://store.brewology.com/multiman.php)**
 - **[PSN Patch](http://www.psx-place.com/forum/psnpatch/psnpatch-information-releases-125.html)**
-- **[Rebug Toolbox](https://github.com/evilsperm/Rebug-Toolbox)**
 - **[RetroArch](https://xbins.org/libretro/)**
 - **[WebMan](https://github.com/aldostools/webMAN-MOD)**
 
