@@ -13,7 +13,7 @@ CFW Sections: **[Wiki](https://github.com/ZHassanQ/PS3-CFW-Guide/wiki/Home)**
 - **[PSN Account, Trophies](https://github.com/ZHassanQ/PS3-CFW-Guide/wiki/8.-PSN-Account,-Trophies)**
 
 
-# CFW & Essentials
+### CFW & Essentials
 
 - **[(CFW 4.90 Cobra 8.4)](https://www.psx-place.com/threads/cfw-4-90-evilnat-cobra-8-4-cex-dex-pex-d-pex.39743/)**
 - **[(CFW 4.84 Rebug DEX)](https://rebug.me/official-rebug-4-84-2-rex-d-rex-cobra-8-1-toolbox-2-03-02-mar-29th-2019/)**
