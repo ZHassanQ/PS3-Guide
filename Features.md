@@ -1,3 +1,15 @@
+# HEN and CFW Features
+
+HEN and CFW, unlocks a tons of features and I will explain a few of them.
+
+This page is for both routes, but read before performing. Steps may varies if you’re on HEN or CFW.
+
+
+## Custom Firmware & Cobra Tools
+
+If you're in CFW pretty much everything you might think doing on your PS3 is in XMB's Network tab under **"★ Custom Firmware Tools"**, for HEN you can use apps like multiMAN.
+
+
 # Accessing PS3 files
 
 You can access your PS3 files in two ways. FTP, or through apps.
@@ -57,3 +69,25 @@ Saving a PS3 dumped games is a good way to save space, if you want to return the
 - Go to this directory: `dev_hdd0\GAMES` if your games are on “JB Folder” format, and copy your game here.
 - Go to this directory: `dev_hdd0\PS3ISO` if your games are on “ISO” format, and copy your game here.
     - Or install it if you dumped it as a PKG file.
+
+
+# Boot Icon
+
+If you don't like the CFW, or HEN icon while booting your console you can basically change and restore it to the default by installing this **[PKG-file for CFW]()**, or this **[PKG-file for HEN]()** and it will be back as it was.
+
+
+# Controllers (PS3XPAD)
+
+If you want to add more controllers support to your PS3 like: XBOX 360, DualShock 4, then install this plugin.
+
+1. Download this **[ZIP-file for CFW]()**, or this **[ZIP-file for HEN]()**
+2. Extract it in your PS3 in `dev_hdd0` folder.
+- In `dev_hdd0` there is a file named **"boot_plugins.txt"** edit it and add the line `/dev_hdd0/plugins/ps3xpad/xpad_vsh.sprx`. Also in `dev_hdd0/plugins` folder should be in it a folder called `ps3xpad`
+
+
+# NTFS
+
+If don't want to use **FAT32** you can use **NTFS** format. But you need to this in **multiMAN** to read an NTFS drive.
+
+1. In multiMAN, mmCM select **"Switch to multiMAN mode"** in **"multiMAN"** column
+2. In **"multiMAN"** column select **"PFS Driver"**
