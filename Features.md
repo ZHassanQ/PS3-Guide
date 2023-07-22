@@ -10,7 +10,20 @@ This page is for both routes, but read before performing. Steps may varies if yo
 If you're in CFW pretty much everything you might think doing on your PS3 is in XMB's Network tab under **"★ Custom Firmware Tools"**, for HEN you can use apps like multiMAN.
 
 
-# Accessing PS3 files
+🧭 Table of Contents
+
+- **[🗃️ Acessing PS3 files](#-accessing-ps3-files)**
+    - [FTP Server](#ftp-server)
+    - [Apps](#apps)
+- **[💿 Dump Games](#-dump-games)**
+    - [Once a Time](#once-a-time)
+    - [File Manager](#file-manager)
+    - [Copying Dumped Games](#Copying-Dumped-Games)
+- **[🎮 Controllers (PS3XPAD)](#-controllers-ps3xpad)**
+- **[🔓 NTFS Drives](#-ntfs-drives)**
+
+
+# 🗃️ Accessing PS3 files
 
 You can access your PS3 files in two ways. FTP, or through apps.
 
@@ -41,7 +54,7 @@ If you want like a desktop environment, you can use multiMAN’s file manager. (
 If you’re on HEN you can use multiMAN app, in it settings there’s an option to use a file manager.
 
 
-# Dumping Games
+# 💿 Dump Games
 
 Dumping games both for CFW and HEN are the same way using multiMAN app. But there’s two ways, one if you want to dump only one game. And the other if you want to dump multiple games at once.
 
@@ -71,7 +84,7 @@ Saving a PS3 dumped games is a good way to save space, if you want to return the
     - Or install it if you dumped it as a PKG file.
 
 
-# Controllers (PS3XPAD)
+# 🎮 Controllers (PS3XPAD)
 
 If you want to add more controllers support to your PS3 like: XBOX 360, DualShock 4, then install this plugin.
 
@@ -80,7 +93,7 @@ If you want to add more controllers support to your PS3 like: XBOX 360, DualShoc
 - In `dev_hdd0` there is a file named **"boot_plugins.txt"** edit it and add the line `/dev_hdd0/plugins/ps3xpad/xpad_vsh.sprx`. Also in `dev_hdd0/plugins` folder should be in it a folder called `ps3xpad`
 
 
-# NTFS
+# 🔓 NTFS Drives
 
 If don't want to use **FAT32** you can use **NTFS** format. But you need to this in **multiMAN** to read an NTFS drive.
 
