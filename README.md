@@ -8,12 +8,56 @@ This repository contains a complete guide on how to mod your PlayStation 3 by ei
 
 This guide has been updated to be compatible with 4.90 and/or older. And for the files, every single file of this guide links to the repository release's. And every single file was downloaded from the original source. If you want check if there's any outdated files, simply go to releases and all links will either redirect you to the original source or a section where the original source link is written in a word. (If you found out an outdated app, pull a request for others)
 
-- Introduction: 
-- HEN Route: 
-- CFW Route: 
+- Introduction: Cannot be outdated, it's just for safety purposes.
+- HEN Route: Up-to-date as for 4.90.
+- CFW Route: Up-to-date as for 4.90.
 - Releases: 
 
 
+# Repository Navigation
+
+As this repository almost covers everything you can do with your PlayStation 3, it has a lot of pages, but easy to follow. And I suggest that you follow the guide as numbered:
+
+1. **[Wiki](#wiki)**
+2. **[Features](#features)**
+- [RetroConsole](#retroconsole)
+- [Customizations](#customizations)
+3. **[PSN Services](#psn-services)**
+
+
+## CFW Wiki
+
+This section contains a guide on how to either install CFW (Custom Frimware), or HEN (Homebrew ENabler) on your PlayStation 3, and how to:
+
+- Install PKG-files
+
+### Wiki Navigation
+
+
+- **[Introduction](wiki/1.-Introduction)**
+    - []()
+    - []()
+    - []()
+- **[]()**
+    - []()
+    - []()
+    - []()
+- **[]()**
+    - []()
+    - []()
+    - []()
+- **[]()**
+    - []()
+    - []()
+    - []()
+- **[]()**
+    - []()
+    - []()
+    - []()
+- **[]()**
+    - []()
+    - []()
+    - []()
 
 
 
