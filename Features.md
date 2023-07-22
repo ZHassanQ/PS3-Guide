@@ -71,11 +71,6 @@ Saving a PS3 dumped games is a good way to save space, if you want to return the
     - Or install it if you dumped it as a PKG file.
 
 
-# Boot Icon
-
-If you don't like the CFW, or HEN icon while booting your console you can basically change and restore it to the default by installing this **[PKG-file for CFW]()**, or this **[PKG-file for HEN]()** and it will be back as it was.
-
-
 # Controllers (PS3XPAD)
 
 If you want to add more controllers support to your PS3 like: XBOX 360, DualShock 4, then install this plugin.
