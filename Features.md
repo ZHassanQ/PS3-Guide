@@ -88,7 +88,7 @@ Saving a PS3 dumped games is a good way to save space, if you want to return the
 
 If you want to add more controllers support to your PS3 like: XBOX 360, DualShock 4, then install this plugin.
 
-1. Download this **[ZIP-file for CFW]()**, or this **[ZIP-file for HEN]()**
+1. Download this **[ZIP-file for CFW](https://github.com/ZHassanQ/PS3-Guide/releases/download/Others/PS3XPAD-0.8-CFW.zip)**, or this **[ZIP-file for HEN](https://github.com/ZHassanQ/PS3-Guide/releases/download/Others/PS3XPAD-HEN.zip)**
 2. Extract it in your PS3 in `dev_hdd0` folder.
 - In `dev_hdd0` there is a file named **"boot_plugins.txt"** edit it and add the line `/dev_hdd0/plugins/ps3xpad/xpad_vsh.sprx`. Also in `dev_hdd0/plugins` folder should be in it a folder called `ps3xpad`
 
