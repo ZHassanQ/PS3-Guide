@@ -34,18 +34,17 @@ This section contains a guide on how to either install CFW (Custom Frimware), or
 ### Wiki Navigation
 
 
-- **[Introduction](wiki/1.-Introduction)**
-    - []()
-    - []()
-    - []()
-- **[]()**
-    - []()
-    - []()
-    - []()
-- **[]()**
-    - []()
-    - []()
-    - []()
+- **[Introduction](https://github.com/ZHassanQ/PS3-Guide/wiki/1.-Introduction)**
+    - [Compatibility List](https://github.com/ZHassanQ/PS3-Guide/wiki/1.-Introduction#compatibility-list)
+    - [What to Choose?](https://github.com/ZHassanQ/PS3-Guide/wiki/1.-Introduction#what-to-choose)
+- **[Compatiblity Test](https://github.com/ZHassanQ/PS3-Guide/wiki/1.1-Compatibility-Test)**
+    - [Flash Drive Setup](https://github.com/ZHassanQ/PS3-Guide/wiki/1.1-Compatibility-Test#flash-drive-setup)
+    - [Testing](https://github.com/ZHassanQ/PS3-Guide/wiki/1.1-Compatibility-Test#testing)
+    - [Results](https://github.com/ZHassanQ/PS3-Guide/wiki/1.1-Compatibility-Test#results)
+- **[Preparing](https://github.com/ZHassanQ/PS3-Guide/wiki/2.-Preparing)**
+    - [Settings](https://github.com/ZHassanQ/PS3-Guide/wiki/2.-Preparing#settings)
+    - [Internet Browser](https://github.com/ZHassanQ/PS3-Guide/wiki/2.-Preparing#internet-browser)
+    - [Flash Drive](https://github.com/ZHassanQ/PS3-Guide/wiki/2.-Preparing#flash-drive)
 - **[]()**
     - []()
     - []()
