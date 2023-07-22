@@ -1,10 +1,18 @@
-# Emulation
+# 👾 Emulation
 
 If you want to emulate games you need to know what’s your PS3 capabilities.
 
 This page is for both routes:
 
-## PlayStation 1
+🧭 Table of Contents:
+
+- **[📀 PlayStation 1](#-playstation-1)**
+- **[💿 PlayStation 2](#-playstation-2)**
+- **[💽 PlayStation Portable](#-playstation-portable)
+- **[💾 Other Consoles](#-other-consoles)**
+
+
+## 📀 PlayStation 1
 
 All PS3’s are capable of playing 100% of PS1 games with No problem at all, you can even dump them if you want like a PS3 game.
 
@@ -28,7 +36,7 @@ But if you already dumped a PS1 game then you can easily copy it like this:
 2. Copy it files to `dev_hdd0\PSXISO` folder. By multiMAN’s file manager or through Retro column, by pressing the /\ (Triangle) button and select “Copy” option.
 
 
-## PlayStation 2 
+## 💿 PlayStation 2 
 
 Some PS3’s are capable of emulating 100% of PS2 games as they contain PS2 hardware. And they are the “Backwards Compatible PHAT” PS3’s. Other models can emulate a pretty good number of PS2 games you can this **[list](https://www.psdevwiki.com/ps3/PS2_Classics_Emulator_Compatibility_List)** to see your game’s compatibility.
 
@@ -51,7 +59,7 @@ But if you already dumped a PS2 game then you can easily copy it like this:
 2. Copy it files to `dev_hdd0\PS2ISO` folder. By multiMAN’s file manager or through Retro column, by pressing the /\ (Triangle) button and select “Copy” option.
 
 
-## PlayStation Portable
+## 💽 PlayStation Portable
 
 Sadly all the PSP emulation on PS3 isn't like PS2 games, you can this **[list](https://www.psdevwiki.com/ps3/PSP_Emulator_Compatibility_List)** for more information about game's compatibility.
 
@@ -69,6 +77,6 @@ Sadly all the PSP emulation on PS3 isn't like PS2 games, you can this **[list](h
 2. Copy it files to `dev_hdd0\PSPISO` folder. By multiMAN’s file manager or through Retro column, by pressing the /\ (Triangle) button and select “Copy” option.
 
 
-## Other Consoles
+## 💾 Other Consoles
 
 You can use RetroArch to emulate other consoles that are older, and/or weaker than PS2. As the PS3 doesn't really emulate the PS2 100%, it already contains some PS2 hardware. You can see this **[post](https://www.psx-place.com/threads/retroarch-ps3-guide-2018-wip.17119/)** for more information about RetroArch and RetroArch Community Edition.
