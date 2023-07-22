@@ -2,6 +2,8 @@
 
 If you want to emulate games you need to know what’s your PS3 capabilities.
 
+This page is for both routes:
+
 ## PlayStation 1
 
 All PS3’s are capable of playing 100% of PS1 games with No problem at all, you can even dump them if you want like a PS3 game.
