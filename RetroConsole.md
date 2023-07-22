@@ -8,7 +8,7 @@ This page is for both routes:
 
 - **[📀 PlayStation 1](#-playstation-1)**
 - **[💿 PlayStation 2](#-playstation-2)**
-- **[💽 PlayStation Portable](#-playstation-portable)
+- **[💽 PlayStation Portable](#-playstation-portable)**
 - **[💾 Other Consoles](#-other-consoles)**
 
 
