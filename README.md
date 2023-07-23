@@ -40,6 +40,7 @@ This section contains a guide on how to either install CFW (Custom Frimware), or
 - **[Compatiblity Test](https://github.com/ZHassanQ/PS3-Guide/wiki/1.1-Compatibility-Test)**
     - [Flash Drive Setup](https://github.com/ZHassanQ/PS3-Guide/wiki/1.1-Compatibility-Test#flash-drive-setup)
     - [Testing](https://github.com/ZHassanQ/PS3-Guide/wiki/1.1-Compatibility-Test#testing)
+       - [Results](https://github.com/ZHassanQ/PS3-Guide/wiki/1.1-Compatibility-Test#results)
 - **[Preparing](https://github.com/ZHassanQ/PS3-Guide/wiki/2.-Preparing)**
     - [Settings](https://github.com/ZHassanQ/PS3-Guide/wiki/2.-Preparing#settings)
     - [Internet Browser](https://github.com/ZHassanQ/PS3-Guide/wiki/2.-Preparing#internet-browser)
@@ -47,11 +48,13 @@ This section contains a guide on how to either install CFW (Custom Frimware), or
 - **[Installing Hybrid Firmware](https://github.com/ZHassanQ/PS3-Guide/wiki/3.-Installing-Hybrid-Firmware)**
     - [Installation](https://github.com/ZHassanQ/PS3-Guide/wiki/3.-Installing-Hybrid-Firmware#installation)
     - [Verify](https://github.com/ZHassanQ/PS3-Guide/wiki/3.-Installing-Hybrid-Firmware#verify)
+       - [Flash Drive](https://github.com/ZHassanQ/PS3-Guide/wiki/3.-Installing-Hybrid-Firmware#flash-drive)
     - [Installing](https://github.com/ZHassanQ/PS3-Guide/wiki/3.-Installing-Hybrid-Firmware#installing)
 - **[CFW Route](https://github.com/ZHassanQ/PS3-Guide/wiki/4.CFW-Route)**
     - [Website](https://github.com/ZHassanQ/PS3-Guide/wiki/4.CFW-Route#website)
       - [Online](https://github.com/ZHassanQ/PS3-Guide/wiki/4.CFW-Route#online)
-      - [Offline](https://github.com/ZHassanQ/PS3-Guide/wiki/4.CFW-Route#offline)
+      - [Offline, Self Host](https://github.com/ZHassanQ/PS3-Guide/wiki/4.CFW-Route#offline-self-host)
+        - [Entering the Website](https://github.com/ZHassanQ/PS3-Guide/wiki/4.CFW-Route#entering-the-website)
     - [The Process](https://github.com/ZHassanQ/PS3-Guide/wiki/4.CFW-Route#the-process)
       - [Backup](https://github.com/ZHassanQ/PS3-Guide/wiki/4.CFW-Route#backup)
       - [Verify](https://github.com/ZHassanQ/PS3-Guide/wiki/4.CFW-Route#verify)
@@ -59,11 +62,12 @@ This section contains a guide on how to either install CFW (Custom Frimware), or
 - **[CFW Route - Installing Custom Firmware](https://github.com/ZHassanQ/PS3-Guide/wiki/4.CFW.1-Installing-Custom-Firmware)**
     - [Installation](https://github.com/ZHassanQ/PS3-Guide/wiki/4.CFW.1-Installing-Custom-Firmware#installation)
     - [Verify](https://github.com/ZHassanQ/PS3-Guide/wiki/4.CFW.1-Installing-Custom-Firmware#verify)
+       - [Flash Drive](https://github.com/ZHassanQ/PS3-Guide/wiki/4.CFW.1-Installing-Custom-Firmware#flash-drive)
     - [Installing](https://github.com/ZHassanQ/PS3-Guide/wiki/4.CFW.1-Installing-Custom-Firmware#installing)
 - **[HEN Route - Installing HEN, An app](https://github.com/ZHassanQ/PS3-Guide/wiki/4.HEN-Installing-HEN,-An-app)**
     - [Online](https://github.com/ZHassanQ/PS3-Guide/wiki/4.HEN-Installing-HEN,-An-app#online)
     - [Offline, Self Host](https://github.com/ZHassanQ/PS3-Guide/wiki/4.HEN-Installing-HEN,-An-app#offline-self-host)
-    - [Entering the website](https://github.com/ZHassanQ/PS3-Guide/wiki/4.HEN-Installing-HEN,-An-app#entering-the-website)
+      - [Entering the website](https://github.com/ZHassanQ/PS3-Guide/wiki/4.HEN-Installing-HEN,-An-app#entering-the-website)
     - [Installing](https://github.com/ZHassanQ/PS3-Guide/wiki/4.HEN-Installing-HEN,-An-app#installing)
 - **[HEN Route - Notes](https://github.com/ZHassanQ/PS3-Guide/wiki/4.HEN.1-Notes#)**
     - [Enabling HEN](https://github.com/ZHassanQ/PS3-Guide/wiki/4.HEN.1-Notes#enabling-hen)
@@ -75,8 +79,8 @@ This section contains a guide on how to either install CFW (Custom Frimware), or
       - [CFW](https://github.com/ZHassanQ/PS3-Guide/wiki/5.-Updating#cfw)
 - **[Installing PKG](https://github.com/ZHassanQ/PS3-Guide/wiki/6.-Installing-PKG)**
     - [PKG Files](https://github.com/ZHassanQ/PS3-Guide/wiki/6.-Installing-PKG#pkg-files)
-    - [Downloading](https://github.com/ZHassanQ/PS3-Guide/wiki/6.-Installing-PKG#downloading)
-    - [Installing](https://github.com/ZHassanQ/PS3-Guide/wiki/6.-Installing-PKG#installing)
+      - [Downloading](https://github.com/ZHassanQ/PS3-Guide/wiki/6.-Installing-PKG#downloading)
+      - [Installing](https://github.com/ZHassanQ/PS3-Guide/wiki/6.-Installing-PKG#installing)
 
 
 ## Features
