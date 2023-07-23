@@ -8,14 +8,13 @@ PLEASE NOTE: NO MATTER WHAT YOU DO. IT WILL NEVER BE SAFE 100%. DO IT ON YOUR OW
 
 ## sysCalls & Internet Browser
 
-To remove sysCalls do the following:
-
-- Note: saysCalls are only in CFW.
+- To remove sysCalls do the following:
+    - Note: saysCalls are only in CFW.
 
 1. Go to "webMANMOD"
 2. Press and hold the **R2, and /\** (Traingle) at the same time.
 
-To remove your Internet Browser history do the following:
+- To remove your Internet Browser history do the following:
 
 1. In your Internet browser hover to "Tools" and remove everything you can remove.
 
