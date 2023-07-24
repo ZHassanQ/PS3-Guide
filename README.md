@@ -127,6 +127,9 @@ If you want to be in the safest possible way to sync your Trophies or use your P
 
 PLEASE NOTE: NO MATTER WHAT YOU DO. IT WILL NEVER BE SAFE 100%. DO IT ON YOUR OWN RISK. YOU MAY BE BANNED BY USING SYNCING YOUR TROPHIES OR USING YOUR PSN ACCOUNT. THE WAY I AM SHOWING IS TO BE AS SAFEST AS POSSIBLE.
 
+
+# Other Guides
+
 If you have PSVita, or PS4 then go check out these repositories! They have a full guide on how to do nearly everything on them covered about the PlayStation 4 and Vita homebrew. And how to jailbreak them or, to exploit them.
 
 - **[PSVita Guide](https://github.com/ZHassanQ/PSVita-Guide)** contains a guide on how to install HENKaku, and how to make it permanent if your PSVita is compatible.
