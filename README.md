@@ -50,6 +50,7 @@ This section contains a guide on how to either install CFW (Custom Frimware), or
     - [Verify](https://github.com/ZHassanQ/PS3-Guide/wiki/3.-Installing-Hybrid-Firmware#verify)
        - [Flash Drive](https://github.com/ZHassanQ/PS3-Guide/wiki/3.-Installing-Hybrid-Firmware#flash-drive)
     - [Installing](https://github.com/ZHassanQ/PS3-Guide/wiki/3.-Installing-Hybrid-Firmware#installing)
+       - [Installing (Safe Mode)](https://github.com/ZHassanQ/PS3-Guide/wiki/3.-Installing-Hybrid-Firmware#installing-safe-mode)
 - **[CFW Route](https://github.com/ZHassanQ/PS3-Guide/wiki/4.CFW-Route)**
     - [Website](https://github.com/ZHassanQ/PS3-Guide/wiki/4.CFW-Route#website)
       - [Online](https://github.com/ZHassanQ/PS3-Guide/wiki/4.CFW-Route#online)
@@ -64,6 +65,7 @@ This section contains a guide on how to either install CFW (Custom Frimware), or
     - [Verify](https://github.com/ZHassanQ/PS3-Guide/wiki/4.CFW.1-Installing-Custom-Firmware#verify)
        - [Flash Drive](https://github.com/ZHassanQ/PS3-Guide/wiki/4.CFW.1-Installing-Custom-Firmware#flash-drive)
     - [Installing](https://github.com/ZHassanQ/PS3-Guide/wiki/4.CFW.1-Installing-Custom-Firmware#installing)
+       - [Installing (Safe Mode)](https://github.com/ZHassanQ/PS3-Guide/wiki/4.CFW.1-Installing-Custom-Firmware#installing-safe-mode)
 - **[HEN Route - Installing HEN, An app](https://github.com/ZHassanQ/PS3-Guide/wiki/4.HEN-Installing-HEN,-An-app)**
     - [Online](https://github.com/ZHassanQ/PS3-Guide/wiki/4.HEN-Installing-HEN,-An-app#online)
     - [Offline, Self Host](https://github.com/ZHassanQ/PS3-Guide/wiki/4.HEN-Installing-HEN,-An-app#offline-self-host)
