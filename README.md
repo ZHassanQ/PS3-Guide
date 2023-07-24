@@ -132,5 +132,5 @@ PLEASE NOTE: NO MATTER WHAT YOU DO. IT WILL NEVER BE SAFE 100%. DO IT ON YOUR OW
 
 If you have PSVita, or PS4 then go check out these repositories! They have a full guide on how to do nearly everything on them covered about the PlayStation 4 and Vita homebrew. And how to jailbreak them or, to exploit them.
 
-- **[PSVita Guide](https://github.com/ZHassanQ/PSVita-Guide)** contains a guide on how to install HENKaku, and how to make it permanent if your PSVita is compatible.
+- **[PSVita Guide](https://github.com/ZHassanQ/PSVita-Guide)** contains a guide on how to install HENKaku, and how to make it permanent if your PSVita is compatible and more.
 - **[PS4 Guide](https://github.com/ZHassanQ/PS4-Guide)** contains a guide on how to install GoldHEN on your PlayStation 4 using an exploit, and more.
