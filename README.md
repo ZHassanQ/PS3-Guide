@@ -6,12 +6,11 @@ This repository contains a complete guide on how to mod your PlayStation 3 by ei
 
 ## Up-to-Date?
 
-This guide has been updated to be compatible with 4.90 and/or older. And for the files, every single file of this guide links to the repository release's. And every single file was downloaded from the original source. If you want check if there's any outdated files, simply go to releases and all links will either redirect you to the original source or a section where the original source link is written in a word. (If you found out an outdated app, pull a request for others)
+This guide has been updated to be compatible with 4.90 and/or older. And for the files, every single file of this guide links to the repository release's. And every single file was downloaded from the original source. If you want check if there's any outdated files, simply go to releases and all links will either redirect you to the original source or a section where the original source link is written in a word.
 
 - Introduction: Cannot be outdated, it's just for safety purposes.
-- HEN Route: Up-to-date as for 4.90.
-- CFW Route: Up-to-date as for 4.90.
-- Releases: 
+- HEN Route: Up-to-date as for 4.91
+- CFW Route: Up-to-date as for 4.91
 
 
 # Repository Navigation
@@ -37,25 +36,27 @@ This section contains a guide on how to either install CFW (Custom Frimware), or
 - **[Introduction](https://github.com/ZHassanQ/PS3-Guide/wiki/1.-Introduction)**
     - [Compatibility List](https://github.com/ZHassanQ/PS3-Guide/wiki/1.-Introduction#compatibility-list)
     - [What to Choose?](https://github.com/ZHassanQ/PS3-Guide/wiki/1.-Introduction#what-to-choose)
-- **[Compatiblity Test](https://github.com/ZHassanQ/PS3-Guide/wiki/1.1-Compatibility-Test)**
-    - [Flash Drive Setup](https://github.com/ZHassanQ/PS3-Guide/wiki/1.1-Compatibility-Test#flash-drive-setup)
-    - [Testing](https://github.com/ZHassanQ/PS3-Guide/wiki/1.1-Compatibility-Test#testing)
-       - [Results](https://github.com/ZHassanQ/PS3-Guide/wiki/1.1-Compatibility-Test#results)
 - **[Preparing](https://github.com/ZHassanQ/PS3-Guide/wiki/2.-Preparing)**
     - [Settings](https://github.com/ZHassanQ/PS3-Guide/wiki/2.-Preparing#settings)
     - [Internet Browser](https://github.com/ZHassanQ/PS3-Guide/wiki/2.-Preparing#internet-browser)
     - [Flash Drive](https://github.com/ZHassanQ/PS3-Guide/wiki/2.-Preparing#flash-drive)
-- **[Installing Hybrid Firmware](https://github.com/ZHassanQ/PS3-Guide/wiki/3.-Installing-Hybrid-Firmware)**
-    - [Installation](https://github.com/ZHassanQ/PS3-Guide/wiki/3.-Installing-Hybrid-Firmware#installation)
-    - [Verify](https://github.com/ZHassanQ/PS3-Guide/wiki/3.-Installing-Hybrid-Firmware#verify)
-       - [Flash Drive](https://github.com/ZHassanQ/PS3-Guide/wiki/3.-Installing-Hybrid-Firmware#flash-drive)
-    - [Installing](https://github.com/ZHassanQ/PS3-Guide/wiki/3.-Installing-Hybrid-Firmware#installing)
-       - [Installing (Safe Mode)](https://github.com/ZHassanQ/PS3-Guide/wiki/3.-Installing-Hybrid-Firmware#installing-safe-mode)
+- **[Compatiblity Test](https://github.com/ZHassanQ/PS3-Guide/wiki/2.1-Compatibility-Test)**
+    - [Flash Drive Setup](https://github.com/ZHassanQ/PS3-Guide/wiki/2.1-Compatibility-Test#flash-drive-setup)
+    - [Testing](https://github.com/ZHassanQ/PS3-Guide/wiki/2.1-Compatibility-Test#testing)
+       - [Results](https://github.com/ZHassanQ/PS3-Guide/wiki/2.1-Compatibility-Test#results)
+- **[HEN Route](https://github.com/ZHassanQ/PS3-Guide/wiki/3.HEN-Installing-Hybrid-Firmware)**
+    - [Installation](https://github.com/ZHassanQ/PS3-Guide/wiki/3.HEN-Installing-Hybrid-Firmware#installation)
+    - [Verify](https://github.com/ZHassanQ/PS3-Guide/wiki/3.HEN-Installing-Hybrid-Firmware#verify)
+       - [Flash Drive](https://github.com/ZHassanQ/PS3-Guide/wiki/3.HEN-Installing-Hybrid-Firmware#flash-drive)
+    - [Installing](https://github.com/ZHassanQ/PS3-Guide/wiki/3.HEN-Installing-Hybrid-Firmware#installing)
+       - [Installing (Safe Mode)](https://github.com/ZHassanQ/PS3-Guide/wiki/3.HEN-Installing-Hybrid-Firmware#installing-safe-mode)
+- **[HEN Route - Installing HEN](https://github.com/ZHassanQ/PS3-Guide/wiki/3.HEN.2-Installing-HEN,-An-app)**
+    - [Online](https://github.com/ZHassanQ/PS3-Guide/wiki/3.HEN.2-Installing-HEN#online)
+- **[HEN Route - Notes](https://github.com/ZHassanQ/PS3-Guide/wiki/3.HEN.2-Notes#)**
+    - [Enabling HEN](https://github.com/ZHassanQ/PS3-Guide/wiki/3.HEN.2-Notes#enabling-hen)
+      - [What might happen?](https://github.com/ZHassanQ/PS3-Guide/wiki/3.HEN.2-Notes#what-might-happen)
+      - [FAQ](https://github.com/ZHassanQ/PS3-Guide/wiki/3.HEN.2-Notes#faq)
 - **[CFW Route](https://github.com/ZHassanQ/PS3-Guide/wiki/4.CFW-Route)**
-    - [Website](https://github.com/ZHassanQ/PS3-Guide/wiki/4.CFW-Route#website)
-      - [Online](https://github.com/ZHassanQ/PS3-Guide/wiki/4.CFW-Route#online)
-      - [Offline, Self Host](https://github.com/ZHassanQ/PS3-Guide/wiki/4.CFW-Route#offline-self-host)
-        - [Entering the Website](https://github.com/ZHassanQ/PS3-Guide/wiki/4.CFW-Route#entering-the-website)
     - [The Process](https://github.com/ZHassanQ/PS3-Guide/wiki/4.CFW-Route#the-process)
       - [Backup](https://github.com/ZHassanQ/PS3-Guide/wiki/4.CFW-Route#backup)
       - [Verify](https://github.com/ZHassanQ/PS3-Guide/wiki/4.CFW-Route#verify)
@@ -66,15 +67,6 @@ This section contains a guide on how to either install CFW (Custom Frimware), or
        - [Flash Drive](https://github.com/ZHassanQ/PS3-Guide/wiki/4.CFW.1-Installing-Custom-Firmware#flash-drive)
     - [Installing](https://github.com/ZHassanQ/PS3-Guide/wiki/4.CFW.1-Installing-Custom-Firmware#installing)
        - [Installing (Safe Mode)](https://github.com/ZHassanQ/PS3-Guide/wiki/4.CFW.1-Installing-Custom-Firmware#installing-safe-mode)
-- **[HEN Route - Installing HEN, An app](https://github.com/ZHassanQ/PS3-Guide/wiki/4.HEN-Installing-HEN,-An-app)**
-    - [Online](https://github.com/ZHassanQ/PS3-Guide/wiki/4.HEN-Installing-HEN,-An-app#online)
-    - [Offline, Self Host](https://github.com/ZHassanQ/PS3-Guide/wiki/4.HEN-Installing-HEN,-An-app#offline-self-host)
-      - [Entering the website](https://github.com/ZHassanQ/PS3-Guide/wiki/4.HEN-Installing-HEN,-An-app#entering-the-website)
-    - [Installing](https://github.com/ZHassanQ/PS3-Guide/wiki/4.HEN-Installing-HEN,-An-app#installing)
-- **[HEN Route - Notes](https://github.com/ZHassanQ/PS3-Guide/wiki/4.HEN.1-Notes#)**
-    - [Enabling HEN](https://github.com/ZHassanQ/PS3-Guide/wiki/4.HEN.1-Notes#enabling-hen)
-      - [What might happen?](https://github.com/ZHassanQ/PS3-Guide/wiki/4.HEN.1-Notes#what-might-happen)
-      - [FAQ](https://github.com/ZHassanQ/PS3-Guide/wiki/4.HEN.1-Notes#faq)
 - **[Updating](https://github.com/ZHassanQ/PS3-Guide/wiki/5.-Updating)**
     - [Update](https://github.com/ZHassanQ/PS3-Guide/wiki/5.-Updating#update)
       - [HEN](https://github.com/ZHassanQ/PS3-Guide/wiki/5.-Updating#hen)
