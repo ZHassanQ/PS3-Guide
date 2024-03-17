@@ -6,7 +6,7 @@ This repository contains a complete guide on how to mod your PlayStation 3 by ei
 
 ## Up-to-Date?
 
-This guide has been updated to be compatible with 4.90 and/or older. And for the files, every single file of this guide links to the repository release's. And every single file was downloaded from the original source. If you want check if there's any outdated files, simply go to releases and all links will either redirect you to the original source or a section where the original source link is written in a word.
+This guide has been updated to be compatible with 4.91 and/or older. And for the files, every single file of this guide links to the repository release's. And every single file was downloaded from the original source. If you want check if there's any outdated files, simply go to releases and all links will either redirect you to the original source or a section where the original source link is written in a word.
 
 - Introduction: Cannot be outdated, it's just for safety purposes.
 - HEN Route: Up-to-date as for 4.91
@@ -44,7 +44,7 @@ This section contains a guide on how to either install CFW (Custom Frimware), or
     - [Flash Drive Setup](https://github.com/ZHassanQ/PS3-Guide/wiki/2.1-Compatibility-Test#flash-drive-setup)
     - [Testing](https://github.com/ZHassanQ/PS3-Guide/wiki/2.1-Compatibility-Test#testing)
        - [Results](https://github.com/ZHassanQ/PS3-Guide/wiki/2.1-Compatibility-Test#results)
-- **[HEN Route](https://github.com/ZHassanQ/PS3-Guide/wiki/3.HEN-Installing-Hybrid-Firmware)**
+- **[HEN Route - Installing Hybrid Firmware](https://github.com/ZHassanQ/PS3-Guide/wiki/3.HEN-Installing-Hybrid-Firmware)**
     - [Installation](https://github.com/ZHassanQ/PS3-Guide/wiki/3.HEN-Installing-Hybrid-Firmware#installation)
     - [Verify](https://github.com/ZHassanQ/PS3-Guide/wiki/3.HEN-Installing-Hybrid-Firmware#verify)
        - [Flash Drive](https://github.com/ZHassanQ/PS3-Guide/wiki/3.HEN-Installing-Hybrid-Firmware#flash-drive)
@@ -56,11 +56,11 @@ This section contains a guide on how to either install CFW (Custom Frimware), or
     - [Enabling HEN](https://github.com/ZHassanQ/PS3-Guide/wiki/3.HEN.2-Notes#enabling-hen)
       - [What might happen?](https://github.com/ZHassanQ/PS3-Guide/wiki/3.HEN.2-Notes#what-might-happen)
       - [FAQ](https://github.com/ZHassanQ/PS3-Guide/wiki/3.HEN.2-Notes#faq)
-- **[CFW Route](https://github.com/ZHassanQ/PS3-Guide/wiki/4.CFW-Route)**
-    - [The Process](https://github.com/ZHassanQ/PS3-Guide/wiki/4.CFW-Route#the-process)
-      - [Backup](https://github.com/ZHassanQ/PS3-Guide/wiki/4.CFW-Route#backup)
-      - [Verify](https://github.com/ZHassanQ/PS3-Guide/wiki/4.CFW-Route#verify)
-      - [Patch](https://github.com/ZHassanQ/PS3-Guide/wiki/4.CFW-Route#patch)
+- **[CFW Route - Backing up & Patching](https://github.com/ZHassanQ/PS3-Guide/wiki/4.CFW-Backing-up-&-Patching)**
+    - [The Process](https://github.com/ZHassanQ/PS3-Guide/wiki/4.CFW-Backing-up-&-Patching#the-process)
+      - [Backup](https://github.com/ZHassanQ/PS3-Guide/wiki/4.CFW-Backing-up-&-Patching#backup)
+      - [Verify](https://github.com/ZHassanQ/PS3-Guide/wiki/4.CFW-Backing-up-&-Patching#verify)
+      - [Patch](https://github.com/ZHassanQ/PS3-Guide/wiki/4.CFW-Backing-up-&-Patching#patch)
 - **[CFW Route - Installing Custom Firmware](https://github.com/ZHassanQ/PS3-Guide/wiki/4.CFW.1-Installing-Custom-Firmware)**
     - [Installation](https://github.com/ZHassanQ/PS3-Guide/wiki/4.CFW.1-Installing-Custom-Firmware#installation)
     - [Verify](https://github.com/ZHassanQ/PS3-Guide/wiki/4.CFW.1-Installing-Custom-Firmware#verify)
