@@ -6,8 +6,8 @@ If you want to be in the safest possible way to sync your Trophies or use your P
 
 PLEASE NOTE: NO MATTER WHAT YOU DO. IT WILL NEVER BE SAFE 100%. DO IT ON YOUR OWN RISK. YOU MAY BE BANNED BY USING SYNCING YOUR TROPHIES OR USING YOUR PSN ACCOUNT. THE WAY I AM SHOWING IS TO BE AS SAFEST AS POSSIBLE.
 
-- Click [here](#cfw) if your PS3 has HEN installed.
-- Click [here](#hen) if your PS3 has CFW installed.
+- Click [here](#cfw) if your PS3 has CFW installed.
+- Click [here](#hen) if your PS3 has HEN installed.
 
 ## CFW
 
