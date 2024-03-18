@@ -30,11 +30,7 @@ But if you already dumped a PS1 game then you can easily copy it like this:
 - To change the game’s icon put the icon in `USB:PSXISO\CTR - Crash Team Racing` folder and rename it exactly like the game name.
 - All the files: **".bin, .cue, .iso, & icon"** must share the same exact name. (The folder is also included)
 
-
-**On your PlayStation 3:**
-
-2. Copy it files to `dev_hdd0\PSXISO` folder. By multiMAN’s file manager or through Retro column, by pressing the /\ (Triangle) button and select “Copy” option.
-
+2. Transfer the files in your own way to `dev_hdd0\PSXISO`
 
 ## 💿 PlayStation 2 
 
@@ -54,9 +50,11 @@ But if you already dumped a PS2 game then you can easily copy it like this:
 - To change the game’s icon put the icon in `USB:PS2ISO\Silent Hill 2` folder and rename it exactly like the game name.
 - All the files: **".bin, .cue, .iso, & icon"** must share the same exact name. (The folder is also included)
 
-**On your PlayStation 3:**
+2. Transfer the files in your own way to `dev_hdd0\PS2ISO`
 
-2. Copy it files to `dev_hdd0\PS2ISO` folder. By multiMAN’s file manager or through Retro column, by pressing the /\ (Triangle) button and select “Copy” option.
+### Encode (HEN)
+
+If you're on HEN you need to encode any PS2 game you want to play. You can simply do that with **Apollo Save Tools.** 
 
 
 ## 💽 PlayStation Portable
@@ -72,10 +70,7 @@ Sadly all the PSP emulation on PS3 isn't like PS2 games, you can this **[list](h
 - To change the game’s icon put the icon in `USB:PSPISO\Exit` folder and rename it exactly like the game name.
 - All the files: **".bin, .cue, .iso, & icon"** must share the same exact name. (The folder is also included)
 
-**On your PlayStation 3:**
-
-2. Copy it files to `dev_hdd0\PSPISO` folder. By multiMAN’s file manager or through Retro column, by pressing the /\ (Triangle) button and select “Copy” option.
-
+2. Transfer the files in your own way to `dev_hdd0\PSPISO`
 
 ## 💾 Other Consoles
 
