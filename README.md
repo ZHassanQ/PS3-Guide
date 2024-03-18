@@ -24,7 +24,7 @@ As this repository almost covers everything you can do with your PlayStation 3, 
 3. **[PSN Services](#psn-services)**
 
 
-## CFW Wiki
+## Wiki
 
 This section contains a guide on how to either install CFW (Custom Frimware), or HEN (Homebrew ENabler) on your PlayStation 3, and how to:
 
