@@ -62,7 +62,7 @@ This section contains a guide on how to either install CFW (Custom Frimware), or
        - [Installing (Safe Mode)](https://github.com/ZHassanQ/PS3-Guide/wiki/3.HEN-Installing-Hybrid-Firmware#installing-safe-mode)
 - **[HEN Route - Installing HEN](https://github.com/ZHassanQ/PS3-Guide/wiki/3.HEN.1-Installing-HEN,-An-app)**
     - [Online](https://github.com/ZHassanQ/PS3-Guide/wiki/3.HEN.1-Installing-HEN#online)
-    - Offline, Not Available
+    - [Offline](https://github.com/ZHassanQ/PS3-Guide/wiki/3.HEN.1-Installing-HEN#offline)
 - **[HEN Route - Notes](https://github.com/ZHassanQ/PS3-Guide/wiki/3.HEN.2-Notes#)**
     - [Enabling HEN](https://github.com/ZHassanQ/PS3-Guide/wiki/3.HEN.2-Notes#enabling-hen)
       - [What might happen?](https://github.com/ZHassanQ/PS3-Guide/wiki/3.HEN.2-Notes#what-might-happen)
